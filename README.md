@@ -1,2 +1,2 @@
-# Student-grade-manger-project
-This this student grade manger project which i made
+# Student-grade-manager-project
+This is a Java student grade manager project.
